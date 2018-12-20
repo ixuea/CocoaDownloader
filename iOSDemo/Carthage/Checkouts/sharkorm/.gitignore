@@ -1,0 +1,10 @@
+
+*.xcuserstate
+
+*.xcbkptlist
+
+*.xcuserstate
+UserInterfaceState.xcuserstate
+/build
+xcshareddata
+.DS_Store
