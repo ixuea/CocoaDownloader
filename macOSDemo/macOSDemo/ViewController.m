@@ -3,7 +3,7 @@
 //  CocoaDownloaderMacOS
 //
 //  Created by smile on 2018/12/18.
-//  Copyright © 2018 ixuea. All rights reserved.
+//  Copyright © 2018 ixuea(http://a.ixuea.com/y). All rights reserved.
 //
 
 #import <CocoaDownloader/CocoaDownloader.h>
@@ -19,7 +19,7 @@
 }
 
 - (IBAction)onAboutClick:(NSButton *)sender {
-    [[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:@"http://www.ixuea.com"]];
+    [[NSWorkspace sharedWorkspace] openURL:[NSURL URLWithString:@"http://a.ixuea.com/M"]];
 }
 
 
