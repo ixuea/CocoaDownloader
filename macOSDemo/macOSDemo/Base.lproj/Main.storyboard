@@ -684,7 +684,7 @@
         <scene sceneID="R2V-B0-nI4">
             <objects>
                 <windowController id="B8D-0N-5wS" sceneMemberID="viewController">
-                    <window key="window" title="Window" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" visibleAtLaunch="NO" animationBehavior="default" id="IQv-IB-iLA">
+                    <window key="window" title="Cocoa downloader demo" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" visibleAtLaunch="NO" animationBehavior="default" id="IQv-IB-iLA">
                         <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES"/>
                         <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
                         <rect key="contentRect" x="196" y="240" width="480" height="270"/>
@@ -770,10 +770,10 @@
             </objects>
             <point key="canvasLocation" x="75" y="655"/>
         </scene>
-        <!--List Controller-->
+        <!--Download list-->
         <scene sceneID="xLe-3O-ywU">
             <objects>
-                <viewController id="g12-LL-RMV" customClass="ListController" sceneMemberID="viewController">
+                <viewController title="Download list" id="g12-LL-RMV" customClass="ListController" sceneMemberID="viewController">
                     <view key="view" id="SUb-0s-eTf">
                         <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -947,10 +947,10 @@
             </objects>
             <point key="canvasLocation" x="640" y="1080"/>
         </scene>
-        <!--Download Manager Controller-->
+        <!--Download manager-->
         <scene sceneID="Ns9-rG-YMQ">
             <objects>
-                <viewController id="sz1-zK-buW" customClass="DownloadManagerController" sceneMemberID="viewController">
+                <viewController title="Download manager" id="sz1-zK-buW" customClass="DownloadManagerController" sceneMemberID="viewController">
                     <view key="view" id="0B5-4U-NSP">
                         <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
                         <autoresizingMask key="autoresizingMask"/>
