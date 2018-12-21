@@ -1,0 +1,2 @@
+github "sharksync/sharkorm" ~> 2.3.67
+github "SDWebImage/SDWebImage" ~> 4.4.3
