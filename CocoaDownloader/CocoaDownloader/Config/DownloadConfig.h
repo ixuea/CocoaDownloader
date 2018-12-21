@@ -1,6 +1,6 @@
 //
 //  DownloadConfig.h
-//  CocoaDownloader
+//  Downloader configuration, you can set timeout, database name.
 //
 //  Created by smile on 2018/12/14.
 //  Copyright © 2018 ixuea(http://a.ixuea.com/y). All rights reserved.
