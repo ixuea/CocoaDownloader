@@ -1,0 +1,22 @@
+{
+  "name": "CocoaDownloader",
+  "version": "0.1.0",
+  "summary": "A short description of CocoaDownloader.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ixueadev/CocoaDownloader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ixueadev": "ixueadev@163.com"
+  },
+  "source": {
+    "git": "https://github.com/ixueadev/CocoaDownloader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CocoaDownloader/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module CocoaDownloader {
+  umbrella header "CocoaDownloader-umbrella.h"
+
+  export *
+  module * { export * }
+}
