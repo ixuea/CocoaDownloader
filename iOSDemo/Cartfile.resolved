@@ -1,0 +1,2 @@
+github "SDWebImage/SDWebImage" "5.12.3"
+github "sharksync/sharkorm" "v2.3.67"
